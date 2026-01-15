@@ -1,2 +1,7 @@
-# learning-log
-My long-term learning records and notes.
+# Learning Log
+
+This repository records my long-term learning process,
+including language study, notes, and reflections.
+
+Updated continuously.
+
