@@ -14,4 +14,4 @@ This repository records my long-term learning process.
 
 ## Timeline
 - 2026-01: Started this repository
-
+- 2026-01-16: N4 lesson 38. Handwritten notes.
