@@ -17,3 +17,4 @@ This repository records my long-term learning process.
 - 2026-01-16: N4 lesson 38. Handwritten notes.
 - 2026-01-20: Reviewed lesson 1-2. Basic vocabulary and expressions.
 - Continued N4 study notes.
+ - N4 study notes update.
