@@ -19,6 +19,11 @@ This repository records my long-term learning process.
 - Continued N4 study notes.
  - N4 study notes 
 Day 6
+### Day 7
+- Material: みんなの日本語
+- Content: 基础语法 / 词汇
+- Status: Continued study
+
 
 
 
