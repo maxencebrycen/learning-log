@@ -23,6 +23,10 @@ Day 6
 - Material: みんなの日本語
 - Content: 基础语法 / 词汇
 - Status: Continued study
+### Day 8
+- Material: みんなの日本語
+- Content: Grammar & Vocabulary
+- Status: Continued
 
 
 
