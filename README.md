@@ -27,6 +27,10 @@ Day 6
 - Material: みんなの日本語
 - Content: Grammar & Vocabulary
 - Status: Continued
+### Day 9
+- Material: みんなの日本语
+- Content: Grammar & Vocabulary
+- Status: Continued
 
 
 
