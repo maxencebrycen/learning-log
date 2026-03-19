@@ -33,7 +33,7 @@ Day 6
 - Status: Continued
 ### Day 10
 - Continued N4 study.
-### Day X
+### Day 11
 - Continued N4 study.
 
 
