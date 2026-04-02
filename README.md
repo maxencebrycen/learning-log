@@ -38,6 +38,7 @@ Day 6
 ### Day 20
 - Continued N4 study.
 - Progress is steady.
-
+### Day 30
+- Continued N4 study.
 
 
