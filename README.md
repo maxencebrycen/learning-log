@@ -46,5 +46,8 @@ Day 6
 
 - Still following the material
 - No interruption
+### Day 45
+- Continued N4 study.
+
 
 
