@@ -54,6 +54,10 @@ Day 6
 - Continued N4 study.
 ### Day 70
 - Continued N4 study.
+## Phase Update
+
+- Still following the material
+- No interruption
 
 
 
