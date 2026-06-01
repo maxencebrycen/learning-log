@@ -58,6 +58,9 @@ Day 6
 
 - Still following the material
 - No interruption
+### Day 80
+- Continued N4 study.
+- Maintaining consistency.
 
 
 
