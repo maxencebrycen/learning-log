@@ -64,7 +64,10 @@ Day 6
 ### Day 90
 - Continued N4 study.
 - Progress is steady.
+## Phase Update
 
+- Still following the material
+- No interruption
 
 
 
