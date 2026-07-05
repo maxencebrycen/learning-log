@@ -68,6 +68,12 @@ Day 6
 
 - Still following the material
 - No interruption
+### Day 100
+- Continued N4 study.
+- Progress is steady.
+
+
+
 
 
 
